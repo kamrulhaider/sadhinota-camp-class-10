@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+}
+
+h1 {
+  display: inline-block;
+  background-color: blueviolet;
+  margin-top: 50px;
+  /* width: 50%; */
+}
